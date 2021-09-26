@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"> Hi, I’m Yashesvinee V<br>
-👀 I’m interested in Web Development, ML/AI, Cloud technology and Coding.  
-🌱 I’m currently learning Microsoft Azure and Postman APIs<br> 
+👀 I’m interested in Web Development, ML/AI and Cloud Computing.  
+🌱 I’m currently learning Microsoft Azure<br> 
 ----
 **Languages and Tools:**
 
